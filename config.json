@@ -1,0 +1,1 @@
+{"php": ["https://raw.githubusercontent.com/TheKingOfDuck/fuzzDicts/master/directoryDicts/php/phpFileName.txt"], "asp": [], "jsp": [], "blacklist": ["blacklist"], "proxy": {"http": "http://127.0.0.1:1081", "https": "http://127.0.0.1:1081"}}
